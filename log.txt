@@ -1,0 +1,145 @@
+do-what-it-says "Alien"
+Title: Alien
+Release Year: 1979
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 97%
+Country/Countries: UK, USA
+Language(s): English
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.
+actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+
+movie-this avatar
+Title: Avatar
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 82%
+Country/Countries: UK, USA
+Language(s): English, Spanish
+Plot: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+
+spotify-this-song all along the watchtower
+--------------------------song 1--------------------------
+artist 1: Jimi Hendrix
+song name: All Along the Watchtower
+preview url: https://p.scdn.co/mp3-preview/5eec2933740ab3984340d5f004813f8275e1bb97?cid=a0afb960f568415299a50013ab552288
+album name: Electric Ladyland
+--------------------------song 2--------------------------
+artist 1: Jimi Hendrix
+song name: All Along the Watchtower
+preview url: https://p.scdn.co/mp3-preview/8c79f22235255cd48ce4100e02c92523e9b2bbfd?cid=a0afb960f568415299a50013ab552288
+album name: Experience Hendrix: The Best Of Jimi Hendrix
+--------------------------song 3--------------------------
+artist 1: Bob Dylan
+song name: All Along the Watchtower
+preview url: https://p.scdn.co/mp3-preview/bf1b2cd73d329f5675102987d09dd6d9fc17b8ab?cid=a0afb960f568415299a50013ab552288
+album name: John Wesley Harding
+--------------------------song 4--------------------------
+artist 1: Dave Matthews Band
+song name: All Along the Watchtower - Live at Continental Airlines Arena, East Rutherford, NJ - September 1999
+preview url: https://p.scdn.co/mp3-preview/fb67ff37be9d5640f787061893931cf191224626?cid=a0afb960f568415299a50013ab552288
+album name: Listener Supported
+--------------------------song 5--------------------------
+artist 1: Jimi Hendrix
+song name: All Along the Watchtower
+preview url: https://p.scdn.co/mp3-preview/b346956b844931bdb66290211acb1799094fb462?cid=a0afb960f568415299a50013ab552288
+album name: Fire: The Jimi Hendrix Collection
+
+concert-this lil wayne
+------------------ Event 0 ------------------
+Venue: Coral Sky Amphitheatre
+Venue location: West Palm Beach, FL, United States
+Date: 07/25/2019
+------------------ Event 1 ------------------
+Venue: MIDFLORIDA Credit Union Amphitheatre
+Venue location: Tampa, FL, United States
+Date: 07/26/2019
+------------------ Event 2 ------------------
+Venue: Cellairis Amphitheatre at Lakewood
+Venue location: Atlanta, GA, United States
+Date: 07/27/2019
+------------------ Event 3 ------------------
+Venue: Dailys Place
+Venue location: Jacksonville, FL, United States
+Date: 07/29/2019
+------------------ Event 4 ------------------
+Venue: Cynthia Woods Mitchell Pavilion
+Venue location: Houston, TX, United States
+Date: 07/31/2019
+------------------ Event 5 ------------------
+Venue: Austin360 Amphitheater
+Venue location: Austin, TX, United States
+Date: 08/01/2019
+------------------ Event 6 ------------------
+Venue: The Dos Equis Pavilion
+Venue location: Dallas, TX, United States
+Date: 08/02/2019
+------------------ Event 7 ------------------
+Venue: Ak-Chin Pavilion
+Venue location: Phoenix, AZ, United States
+Date: 08/05/2019
+------------------ Event 8 ------------------
+Venue: North Island Credit Union Amphitheatre
+Venue location: San Diego, CA, United States
+Date: 08/07/2019
+------------------ Event 9 ------------------
+Venue: The Forum
+Venue location: Los Angeles, CA, United States
+Date: 08/08/2019
+------------------ Event 10 ------------------
+Venue: Outside Lands Music Festival
+Venue location: San Francisco, CA, United States
+Date: 08/09/2019
+------------------ Event 11 ------------------
+Venue: FivePoint Amphitheatre
+Venue location: Irvine, CA, United States
+Date: 08/27/2019
+------------------ Event 12 ------------------
+Venue: Sunlight Supply Amphitheater
+Venue location: Portland, OR, United States
+Date: 08/30/2019
+------------------ Event 13 ------------------
+Venue: White River Amphitheatre
+Venue location: Seattle, WA, United States
+Date: 08/31/2019
+------------------ Event 14 ------------------
+Venue: USANA Amphitheatre
+Venue location: Salt Lake City, UT, United States
+Date: 09/02/2019
+------------------ Event 15 ------------------
+Venue: Pepsi Center
+Venue location: Denver, CO, United States
+Date: 09/04/2019
+------------------ Event 16 ------------------
+Venue: Providence Medical Center Amphitheater
+Venue location: Kansas City, MO, United States
+Date: 09/08/2019
+------------------ Event 17 ------------------
+Venue: DTE Energy Music Theatre
+Venue location: Detroit, MI, United States
+Date: 09/10/2019
+------------------ Event 18 ------------------
+Venue: Xcel Energy Center
+Venue location: St Paul, MN, United States
+Date: 09/12/2019
+------------------ Event 19 ------------------
+Venue: Hollywood Casino Amphitheatre
+Venue location: Saint Francisville, MO, United States
+Date: 09/14/2019
+------------------ Event 20 ------------------
+Venue: Riverbend Music Center
+Venue location: Cincinnati, OH, United States
+Date: 09/16/2019
+------------------ Event 21 ------------------
+Venue: BB&T Pavilion
+Venue location: Camden, NJ, United States
+Date: 09/18/2019
+------------------ Event 22 ------------------
+Venue: Barclays Center
+Venue location: Brooklyn, NY, United States
+Date: 09/20/2019
+------------------ Event 23 ------------------
+Venue: LIFE IS BEAUTIFUL
+Venue location: Las Vegas, NV, United States
+Date: 09/21/2019
+
